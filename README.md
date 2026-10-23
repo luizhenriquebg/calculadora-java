@@ -41,8 +41,6 @@ Execute (Run) o método main() do arquivo CalculadoraTest.java para ver as opera
 
 ## Próximos Passos
 
-[ ] Adicionar retorno de valores (return) nos métodos
-
 [ ] Implementar entrada de dados pelo usuário (Scanner)
 
 [ ] Tratar divisões por zero
